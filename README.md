@@ -1,1 +1,1 @@
-<img align="fit" src="https://github.com/TheramReddy/TheramReddy/blob/main/MinioGlitch.gif"/>
+<img align="center" src="https://github.com/TheramReddy/TheramReddy/blob/main/MinioHolding.jpg"/>
