@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/TheramReddy/TheramReddy/raw/main/PacMan.jpg"/>
+<img align="center" src="https://github.com/TheramReddy/TheramReddy/blob/main/motto_git.jpg"/>
 
 
 
