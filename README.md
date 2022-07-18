@@ -12,5 +12,12 @@ Hey, Folks! <img src="https://github.com/TheramReddy/TheramReddy/blob/main/hand.
 I'm Dasavanth Reddy<br>
  📄Currently working on a Reasearch paper<br>
 📨 Reach out to me on: dasavanthnani@gmail.com ; +(91) 9100282671<br>
+
+👨‍💻 Languages and Softwares Known :
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,nodejs,css,github,idea,linux,powershell,py,pytorch,tensorflow,r,stackoverflow,codepen,vscode" />
+  </a>
+</p>
 2022 VIT'ian <img src="https://github.com/TheramReddy/TheramReddy/blob/main/gradua_me.png" width="23px">
 </h3>
