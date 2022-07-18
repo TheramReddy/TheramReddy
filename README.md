@@ -7,7 +7,10 @@
 <a href="https://github.com/TheramReddy"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://reddit.com/Dasavanth_Reddy"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" border-radius="15px"></a>   
 </h4>
-<h2 align="center">
-Hey, Folks!<img src="https://github.com/TheramReddy/TheramReddy/blob/main/Folks_me.png" width="23px"> <br>
-2022 VIT <img src="https://github.com/TheramReddy/TheramReddy/blob/main/gradua_me.png" width="23px">
-</h2>
+<h3 align="center">
+Hey, Folks! <img src="https://github.com/TheramReddy/TheramReddy/blob/main/hand.png" width="23px"> <br>
+I'm Dasavanth Reddy<br>
+ 📄Currently working on a Reasearch paper<br>
+📨 Reach out to me on: dasavanthnani@gmail.com ; +(91) 9100282671<br>
+2022 VIT'ian <img src="https://github.com/TheramReddy/TheramReddy/blob/main/gradua_me.png" width="23px">
+</h3>
