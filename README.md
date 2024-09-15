@@ -19,5 +19,5 @@ I'm Dasavanth Reddy<br>
     <img src="https://skillicons.dev/icons?i=java,c,nodejs,css,github,idea,linux,powershell,py,pytorch,tensorflow,r,stackoverflow,codepen,vscode" />
   </a>
 </p>
-2022 VIT'ian <img src="https://github.com/TheramReddy/TheramReddy/blob/main/gradua_me.png" width="23px">
+2023 VIT'ian <img src="https://github.com/TheramReddy/TheramReddy/blob/main/gradua_me.png" width="23px">
 </h3>
