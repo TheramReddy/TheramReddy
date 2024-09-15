@@ -11,7 +11,7 @@
 Hey, Folks! <img src="https://github.com/TheramReddy/TheramReddy/blob/main/hand.png" width="23px"> <br>
 I'm Dasavanth Reddy<br>
  📄Currently working on a Reasearch paper<br>
-📨 Reach out to me on: dasavanthnani@gmail.com ; +(91) 9100282671<br>
+📨 Reach out to me on: dasavanthnani@gmail.com ; <br>
 
 👨‍💻 Languages and Softwares Known :
 <p align="center">
